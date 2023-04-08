@@ -16,6 +16,7 @@ Povestea de mai jos a fost creată în JIRA și descrie specificațiile funcțio
 imagine
 
 1 Secțiunea de testare
+
 1.1 Planificarea testelor
 Planul de testare este conceput pentru a descrie toate detaliile testării pentru modulul Dependenți din aplicația OrangeHRM.
 
