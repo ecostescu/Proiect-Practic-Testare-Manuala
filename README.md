@@ -18,7 +18,7 @@ The below Story was created in JIRA and describes the functional specifications 
 ![image](https://user-images.githubusercontent.com/99291143/163687093-6f1780d1-2808-4038-9ae2-65c22540a55c.png)
 
 
-# 1 Testing section
+# 1 Sectiunea de testare
 
 ## 1.1 Test Planning
 
